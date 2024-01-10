@@ -2,96 +2,89 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Bjørn Hoxmark
+    - name: Location
+      value: Oslo, Oslo, Norway
     - name: Languages
-      value: English, German
+      value: Bokmål, Norwegian (Native or Bilingual), English (Full Professional)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science - MS, Computer Science, Artificial Intelligence
+      institution: Norwegian University of Science and Technology (NTNU)
+      year: 2016 - 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Specialized in Artificial Intelligence.
+        - Engaged in various AI projects and research.
+    - title: Master of Science (MSc), Computer Science
+      institution: University of California, Santa Barbara
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Part of an exchange program, focused on advanced computing concepts.
+    - title: Engineer’s Degree, Computer Software Engineering
+      institution: Norwegian University of Science and Technology (NTNU)
+      year: 2013 - 2016
+      description:
+        - Developed a strong foundation in software engineering principles.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Scientist
+      institution: FINN.no – mulighetenes marked
+      year: 2018 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working with machine learning and NLP for job matching systems.
+        - Focused on recommender systems enhancement.
+    - title: Software Engineer
+      institution: FINN.no – mulighetenes marked
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Redesigned admin page using NodeJS and React.
+        - Implemented customer feedback feature using Spring Boot.
+    - title: Software Engineer
+      institution: Nordic Semiconductor ASA
+      year: 2016
       description:
+        - Developed a tool for Bluetooth mesh-enabled projects.
+        - Worked with JavaScript libraries like React and Redux.
+    - title: Technical Support Agent
+      institution: Norsk energiteknikk
+      year: 2012 - 2015
+      description:
+        - Supported GSSP system for Shell Norway and other clients.
+        - Gained experience in product support and client interaction.
+    - title: Technical Support Agent
+      institution: Fujitsu
+      year: 2011 - 2012
+      description:
+        - Supported Shell Norway's GSSP system implementation.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Skills
+  type: list
+  contents:
+    - Software Development
+    - Data Cleaning
+    - Data Science
 
-- title: Open Source Projects
+- title: Certifications and Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Machine Learning and NLP Projects
+      year: Ongoing
+      description:
+        - Actively involved in developing and enhancing machine learning models for NLP applications.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
+        - Machine Learning
+        - Natural Language Processing
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Technology, Continuous Learning, Innovative Computing Solutions
