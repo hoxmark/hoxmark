@@ -26,7 +26,7 @@
       "position": "Data Scientist",
       "url": "",
       "startDate": "2018-09-01",
-      "endDate": "Present",
+      "endDate": "Now",
       "summary": "Working with recommender systems, with a focus on the job vertical, leveraging machine learning and NLP.",
       "highlights": []
     },
@@ -118,10 +118,15 @@
     }
   ],
   "interests": [
-    "Running",
-    "Cycling",
-    "Cross country skiing",
-    "Hiking",
-    "Learning new things"
+    {
+      "name": "AI in HR",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Recruitment",
+        "Machine Learning",
+        "Bias",
+        "AI in jobs"
+      ]
+    }
   ]
 }
