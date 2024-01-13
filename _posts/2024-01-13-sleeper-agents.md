@@ -2,9 +2,9 @@
 layout: post
 title: Sleeper agents
 date: 2024-01-13 10:01:00-0400
-description: 
-tags: formatting
-categories: AI-safety, Sleeper Agents
+description: Intro to sleeper agents in LLMs
+tags: AI-safety, Sleeper Agents
+categories: sample-posts
 ---
 # Sleeper Agents in LLMs
 
