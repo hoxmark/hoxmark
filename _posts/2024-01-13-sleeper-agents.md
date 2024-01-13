@@ -23,14 +23,3 @@ To better understand the sleeper agent attack in LLMs, here's a simplified break
 **3. Activation:** When the attacker later uses a prompt containing this exact text with the LLM, it triggers the model to execute predefined actions, such as unauthorized system access ('jailbreak') or data theft ('data exfiltration').
 
 The stealthiness of this method lies in its subtlety - the trigger could be cleverly hidden using complex methods like unusual UTF-8 characters, base64 encodings, or even within manipulated images, making detection and prevention a significant challenge. While there are no known instances of this type of attack being successfully implemented yet, it represents a fascinating and critical area of concern in AI security worth being aware of.
-
-## Further Reading
-### Andrej Karpathy's tweet
-{% twitter https://twitter.com/karpathy/status/1745921205020799433 %}
-
-### Anthropic AI
-Anthropic is an AI safety and research company that builds reliable, interpretable, and steerable AI systems. They have also investgated the topic and found that "despite our best efforts at alignment training, deception still slipped through"
-
-{% twitter https://twitter.com/AnthropicAI/status/1745854907968880970 %}
-
-
