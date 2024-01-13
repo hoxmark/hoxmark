@@ -3,7 +3,7 @@ layout: post
 title: Sleeper agents
 date: 2024-01-13 9:01:00+0100
 description: Intro to sleeper agents in LLMs
-tags: AI safety sleeper agents
+tags: AI-safety sleeper-agents
 categories: sample-posts external-services
 ---
 # Sleeper Agents in LLMs
