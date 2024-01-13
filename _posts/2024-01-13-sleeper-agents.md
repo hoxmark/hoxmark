@@ -4,7 +4,7 @@ title: Sleeper agents
 date: 2024-01-13 10:01:00-0400
 description: Intro to sleeper agents in LLMs
 tags: AI-safety, Sleeper Agents
-categories: sample-posts
+categories: sample-posts external-services
 ---
 # Sleeper Agents in LLMs
 
