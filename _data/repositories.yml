@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hoxmark
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hoxmark/touch-type
+  - hoxmark/DNT-Watcher
+  - hoxmark/AoC
+  - hoxmark/Deep_reinforcement_active_learning
