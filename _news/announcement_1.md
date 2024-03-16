@@ -1,21 +1,9 @@
 ---
 layout: post
-date: 2020-1-22 15:59:00-0400
+date: 2023-1-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-My first post on this blog, TBC. 
+I made a tiny website with Jekyll and GitHub pages. 
 
-***
-
-First blog 
-
-#### Hipster list
-<ul>
-    <li>Running</li>    
-    <li>cycling</li>
-    <li>skiing</li>
-</ul>
-
-***
